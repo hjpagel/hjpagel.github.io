@@ -11,6 +11,15 @@
     <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Why Astronomy?</title>
+      <link>https://hjpagel.github.io/post/astronomy/</link>
+      <pubDate>Thu, 23 Feb 2017 13:26:39 -0500</pubDate>
+      
+      <guid>https://hjpagel.github.io/post/astronomy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Getting started with the Academic framework for Hugo</title>
       <link>https://hjpagel.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 12:00:00 +0000</pubDate>
